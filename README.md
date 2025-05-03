@@ -25,3 +25,14 @@ Add-MpPreference -ExclusionPath 'C:\Temp' | Out-Null; .\Menu.ps1
 ```
 # Pc-Logs-Graber
 A PC Logs Grabber is a tool used to collect system logs, such as browser history, errors, clipboard data, and user activity. It can help in diagnostics and monitoring but is often misused in hacking to steal sensitive data, making it a cybersecurity risk if deployed maliciously.
+
+
+# Journal Logs Cleaner for Pentesters
+- Cleaner.bat file using for clear your Journal Logs 
+# Here is the simple Descripition of Journal Logs
+- 📘 Windows Journal Logs — Your PC’s Memory Tracker
+Windows journal logs act like your computer’s personal diary. 🖥️✨
+They record everything from system events and software changes to file actions — including when files are created, deleted, renamed, or modified.
+These logs are super handy for troubleshooting, monitoring changes, and even recovering lost data.
+
+Whether you're a developer, sysadmin, or just curious, journal logs help you understand what’s really going on under the hood. 🔍🛠️
